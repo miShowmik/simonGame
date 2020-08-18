@@ -104,7 +104,3 @@ function startOver() {
     gamePattern=[];
     started= false;
 }
-// $("#" + randomChosenColor).fadeIn(250).fadeOut(100).fadeIn(100);
-
-// var audio = new Audio("sounds/" + randomChosenColor + "mp3");
-// audio.play();
